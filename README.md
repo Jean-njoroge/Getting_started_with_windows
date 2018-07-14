@@ -6,3 +6,4 @@ I have been using Mac OS for all my data science work, but my new company uses w
 * [cmder](http://cmder.net/)- Cmder is a software package created out of pure frustration over the absence of nice console emulators on Windows. It is based on amazing software, and spiced up with the Monokai color scheme and a custom prompt layout, looking sexy from the start.
 
 * [SSH key set up using cmdr(windowds](https://www.youtube.com/watch?v=Stt-Mk5CGxE)
+* I found [this](https://www.youtube.com/watch?v=VxtZwIEp-YQ) tutorial to be using in creating SSH key for my windows machine - although it is in German. 
