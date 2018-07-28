@@ -7,3 +7,5 @@ I have been using Mac OS for all my data science work, but my new company uses w
 
 * [SSH key set up using cmdr(windowds](https://www.youtube.com/watch?v=Stt-Mk5CGxE)
 * I found [this](https://www.youtube.com/watch?v=VxtZwIEp-YQ) tutorial to be using in creating SSH key for my windows machine - although it is in German. 
+
+http://www.dxulab.com/wiki/windowssubsystemforlinuxwsl
